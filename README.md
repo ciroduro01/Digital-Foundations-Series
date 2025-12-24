@@ -31,8 +31,8 @@ This workbook consists of 120 practical activities designed to be completed in 1
 
 ## Downloads (Volume 1)
 
-* **[Student Workbook (PDF)]()**
-* **[Answer Key (PDF)]()**
+* **[Student Workbook (PDF)](./Workbooks/Digital_Foundations_Vol_1_Workbook.pdf)**
+* **[Answer Key (PDF)](./Answer_Keys/Digital_Foundations_Vol_1_Answer_Key.pdf)**
 
 ---
 
